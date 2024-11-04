@@ -21,6 +21,7 @@ With access to reliable, real-time updates, including the **CNN live stream**, v
 
 The **2024 USA Elections Guide** covers a range of critical topics to provide a comprehensive look at the upcoming election. By breaking down each issue, voters can better understand where candidates stand and how these issues impact their daily lives. The guide includes real-time news resources, such as **CNN live stream**, to help you follow election updates as they happen.
 
+For more information, check out our [Wiki Home Page](https://github.com/ghazanfar78/usa-elections-2024-cnn-live-updates/wiki) for a deep dive into each topic.
 
 ## Key Issues in the 2024 Election
 
@@ -31,7 +32,7 @@ This guide highlights several central issues in the 2024 election:
 - **Education and Student Debt**: Student loan forgiveness and affordable education.
 - **Foreign Policy and National Security**: Strengthening alliances, cybersecurity, and military funding.
 
-To explore each issue in detail, visit the [Key Issues Wiki Page](https://github.com/ghazanfar78/your-repo/wiki/Key-Issues-in-the-2024-Election).
+To explore each issue in detail, visit the [Key Issues Wiki Page](https://github.com/ghazanfar78/usa-elections-2024-cnn-live-updates/wiki/Key-Issues-in-the-2024-Election).
 
 ## How to Stay Updated with CNN Live Stream
 
@@ -46,7 +47,7 @@ For voters looking to dive deeper, we offer additional resources:
 - **Candidate Comparison Tools**: See where each candidate stands on the issues.
 - **Voter Registration Information**: Know your registration deadlines and polling locations.
 
-Visit the [Additional Resources Page](https://github.com/ghazanfar78/your-repo/wiki/Additional-Voter-Resources) for more details.
+Visit the [Additional Resources Page](https://github.com/ghazanfar78/usa-elections-2024-cnn-live-updates/wiki/Additional-Voter-Resources) for more details.
 
 ## How to Contribute
 
